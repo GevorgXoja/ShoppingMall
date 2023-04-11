@@ -1,0 +1,31 @@
+.slick-custom-arr {
+  font-size: 0;
+  line-height: 0;
+  position: absolute;
+  top: 108%;
+  display: block;
+  width: 0px;
+  height: 0px;
+  padding: 0;
+  -webkit-transform: translate(0,-50%);
+  -ms-transform: translate(0,-50%);
+  transform: translate(0,-50%);
+  cursor: pointer;
+  color: transparent;
+  border: none;
+  outline: none;
+  background: 0 0;
+}
+
+.slider {
+    width: 50%;
+    margin: 10px auto;
+}
+
+.slick-slide {
+  margin: 0px 20px;
+}
+
+.slick-slide img {
+  width: 100%;
+}
